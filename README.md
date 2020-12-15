@@ -5,3 +5,5 @@ by analysing the Yelp reviews dataset. All rights to the data belong to Yelp.
 This project is academic in nature.
 
 [Yelp Reviews Dataset](https://www.yelp.com/dataset)
+
+Download and extract the Yelp dataset into the `data` directory.

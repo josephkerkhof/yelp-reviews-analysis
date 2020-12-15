@@ -1,2 +1,5 @@
 jupyterlab
 pandas
+textblob
+tqdm
+ipywidgets
